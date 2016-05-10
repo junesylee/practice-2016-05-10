@@ -4,8 +4,9 @@ You bring fresh toner.
 
 With searching comes loss
 and the presence of absence:
-"My Thesis" not found.
+"My software" not found.
 
-Yesterday it worked
-Today it is not working
+Yesterday it did not work
+Today it is working
 Software is like that.
+
